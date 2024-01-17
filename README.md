@@ -1,6 +1,6 @@
 # Algorithmic_Trading
 
-## MACD Crossover Backtesting Strategy
+## Backtesting the MACD Crossover Strategy
 
 ### Overview
 
